@@ -1,2 +1,2 @@
-# PyTorch-Tutorial
-PyTorch-Tutorial
+# PyTorch-Study
+PyTorch-Study
